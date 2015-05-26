@@ -4,6 +4,11 @@
         "doctrine/orm": "~2.5",
         "symfony/yaml": "~2.6"
     },
+    "autoload": {
+      "psr-0": {
+        "": "src/"
+      }
+    },
     "license": "MIT",
     "authors": [
         {
