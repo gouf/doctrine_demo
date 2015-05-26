@@ -1,0 +1,14 @@
+{
+    "name": "gou/doctrin_test",
+    "require": {
+        "doctrine/orm": "~2.5",
+        "symfony/yaml": "~2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gou Furuya",
+            "email": "innocent.zero@gmail.com"
+        }
+    ]
+}
